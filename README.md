@@ -4,7 +4,6 @@ A Python-based maze solver application built using Pygame.
 The project visually demonstrates pathfinding algorithms like BFS, DFS, and A* to find the shortest path in a randomly generated maze.
 
 ---
-
 ## Features
 - Random maze generation
 - Pathfinding algorithms:
